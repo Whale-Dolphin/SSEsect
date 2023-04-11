@@ -27,6 +27,13 @@ body{
   margin-left: -120px;
 }
 
+/* .buildingnum{
+  font-size: 55px;
+  margin-left: -200px;
+  color: #2a579a;
+  margin-top: -190px;
+} */
+
 .container{
   position: relative;
   justify-content: center;

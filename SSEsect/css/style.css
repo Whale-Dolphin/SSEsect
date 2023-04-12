@@ -14,7 +14,7 @@ body{
 .logo-container {
   position: absolute;
   top: 0;
-  left: -300px;
+  /* left: -50px; */
 }
 
 .background {
@@ -31,8 +31,8 @@ body{
 
 .logo {
   object-fit: contain;
-  max-width: 50%;
-  height: 50%; 
+  max-width: 40%;
+  height: 40%; 
 }
 
 .dormnum{
